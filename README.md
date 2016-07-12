@@ -1,7 +1,7 @@
 PyExchange
 ===================
 
-[![Build Status](https://travis-ci.org/linkedin/pyexchange.svg)](https://travis-ci.org/linkedin/pyexchange) [![Coverage Status](https://coveralls.io/repos/linkedin/pyexchange/badge.png?branch=master)](https://coveralls.io/r/linkedin/pyexchange?branch=master)
+[![Build Status](https://travis-ci.org/linux-jedi/pyexchange.svg)](https://travis-ci.org/linux-jedi/pyexchange)
 
 PyExchange is a library for Microsoft Exchange.
 
